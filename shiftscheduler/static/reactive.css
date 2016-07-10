@@ -1,0 +1,71 @@
+.grid table {
+    width: 100%;
+}
+
+.grid td {
+    text-align: center;
+    border: black;
+}
+
+.grid tr {
+    border: black solid 0.5px;
+}
+
+#TabBar {
+    display: block;
+    padding: 5px;
+}
+
+.tabBarBtn {
+    display: inline-block !important;
+    padding: 5px;
+}
+
+#SubformWrapper {
+    padding: 1px;
+    height: 53%;
+}
+
+div {
+    border: solid 0.5px;
+}
+
+#container {
+    /*! display:inline; */
+    width: 100%;
+
+}
+
+#SubformWrapper div {
+    display: block;
+}
+
+#Grid {
+    position: relative;
+    width: 30%;
+    /*! height:300px; */
+    display: inline-block;
+}
+
+#Karta {
+
+    width: 70%;
+    height: 45%;
+    display: inline-block;
+}
+
+#wrapper {
+    display: block;
+}
+
+#form {
+    display: block;
+    height: 600px;
+}
+
+#splitter {
+
+    float: right;
+    width: 69%;
+    height: 90%;
+}
