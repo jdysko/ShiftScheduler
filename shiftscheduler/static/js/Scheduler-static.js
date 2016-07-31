@@ -114,6 +114,7 @@ class DayTabs {
             dt.style.width = w.toString() + '%';
             var tn = document.createTextNode(tab[x].toString());
             dt.appendChild(tn);
+            dt.appendChild(tn);
         }
     }
 }
